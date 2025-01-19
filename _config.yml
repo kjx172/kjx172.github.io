@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Aaron Kisitu"
 title_separator          : "-"
 name                     : &name "Aaron Kisitu"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "Hello! My name is Aaron Kisitu, and I am a Computer Science student at the University of Houston with a strong interest in Full Stack Development and IT Solutions. I am passionate about learning and enjoy exploring history, music, and cooking in my free time. Additionally, I am committed to giving back to my community through volunteering."
+url                      : https://kjx172.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kjx172/kjx172.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Aaron Kisitu"
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
