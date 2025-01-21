@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, University of Houston, 2025 (expected)
+* CompTia A+ Certification, 2022
+* CompTIA Network+, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2024 - Present: National Residence Hall Honorary President
+  * University of Houston
+  * Duties includes: Organizing service events & Recognizing efferts of students and faculty to improve our campus community
+  * Supervisor: Student Housing and Resident Life
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2022 - Present: IT Student Assistant
+  * University of Houston+
+  * Duties included: Provided technical support to professors & Assisted in the installation and maintenance of essential classroom technologies
+  * Supervisor: 
 
 * Summer 2015: Research Assistant
   * Github University
