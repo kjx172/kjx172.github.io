@@ -27,11 +27,10 @@ author:
   bio              : "Hello! My name is Aaron Kisitu, and I am a Computer Science student at the University of Houston with a strong interest in Full Stack Development and IT Solutions. I am passionate about learning and enjoy exploring history, music, and cooking in my free time. Additionally, I am committed to giving back to my community through volunteering."
   location         : "Houston"
   employer         : "University of Houston"
-  resume              : "https://drive.google.com/file/d/1jkI7sKNTSUOITTLrTIuzeJYHvN7nq6Gj/view?usp=sharing"
   email            : "kisituaaron@gmail.com" 
 
   # Academic websites
-  arxiv            : "cs.uh.edu"
+  arxiv            : # URL
   googlescholar    : # URL
   impactstory      : # URL
   orcid            : # URL
